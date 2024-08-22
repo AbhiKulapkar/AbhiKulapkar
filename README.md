@@ -42,5 +42,5 @@ Hello! I'm Abhishek Kulapkar, a recent Electronics and Telecommunication Enginee
 I am continuously expanding my knowledge in the fields of software development, data science, data analysis, and electric vehicles. Stay tuned for more projects and updates!
 
 ## Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** abhishekkulapkar@example.com
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/abhishek-kulapkar-236a831a0/])
+- **Email:** abhishekkulapkar@gmail.com
