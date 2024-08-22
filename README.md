@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Abhishek Kulapkar
 
-**`Electronics & Telecommunication Engineer | Software Development Enthusiast
---- | Data Science Enthusiast | Data Analyst Enthusiast | Electric Vehicle Enthusiast`**
+**`Electronics & Telecommunication Engineer | Software Development Enthusiast | Data Science Enthusiast | Data Analyst Enthusiast | Electric Vehicle Enthusiast`**
 
 ---
 
