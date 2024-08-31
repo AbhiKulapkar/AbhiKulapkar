@@ -146,7 +146,7 @@
 
 
 
-   ![Snake animation](https://github.com/AbhiKulapkar/AbhiKulapkar/dist/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/AbhiKulapkar/AbhiKulapkar/blob/output/github-contribution-grid-snake.svg)
 
 
 
