@@ -114,7 +114,7 @@
 
 ###
 
-<img align="left" height="335" src="https://s3.buckets.icons8.com/icons8-ouch-prod-assets/gif/9/ecda5c7e-dd84-45e4-a639-6009e83491cd.gif?response-content-disposition=attachment%3B filename%3Dmodul-lettering-code-on-computer-screen-and-programming-languages-text.gif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=syncher%2F20240831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240831T110222Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=89a6601c586c1ab82de1a7984718affcf71bf5df73f6da71051720ff4446c8e1"  />
+<img align="left" height="335" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0J1m2FuI8de_7fKuSOwAn8&ust=1725190840713000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiR7fOSn4gDFQAAAAAdAAAAABAE"  />
 
 ###
 
