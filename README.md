@@ -144,13 +144,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiKulapkar&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<h1 align="left">Snake eating my github contributions</h1>
 
-
-
-   ![Snake animation](https://github.com/AbhiKulapkar/AbhiKulapkar/blob/output/github-contribution-grid-snake.svg)
-
-
+![snake gif](https://github.com/AbhiKulapkar/AbhiKulapkar/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
