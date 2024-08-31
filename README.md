@@ -146,7 +146,7 @@
 
 <h1 align="left">Snake eating my github contributions</h1>
 
-![snake gif](https://github.com/AbhiKulapkar/AbhiKulapkar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AbhiKulapkar/AbhiKulapkar/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
