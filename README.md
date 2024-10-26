@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">Software Developer | Data Science | Data Analyst | Electric Vehicle</h1>
+<h1 align="center">Software Developer | Data Science</h1>
 
 ###
 
