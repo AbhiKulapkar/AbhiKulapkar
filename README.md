@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">I'm Abhishek Kulapkar, a recent graduate with a BE in Electronics and Telecommunication Engineering. My journey in technology is driven by a passion for innovation and a commitment to expanding my skill set. Currently, I'm honing my expertise in Software Development, Data Science, Data Analysis, and Electric Vehicle technologies.<br><br>I am energized by challenges and dedicated to pushing the boundaries of what's possible. Whether it's developing advanced smart vehicle systems or creating predictive models, I'm passionate about crafting impactful, real-world solutions.</h3>
+<h3 align="left">Hi, I'm Abhishek Kulapkar, a passionate software developer with expertise in full-stack development, mobile app development, and programming. My projects include interactive portfolio websites, C++ applications like to-do lists and games, and data-driven solutions. I work with technologies like Flutter, Firebase, OpenCV, and modern web tools. I’m always exploring new ways to create efficient and user-friendly software solutions. Let's build something amazing together!</h3>
 
 ###
 
